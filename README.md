@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @userO816
 - 👀 I’m interested in mobile / cross platform Development
-- 🌱 I’m currently learning ...
+
 
 
 <!---
